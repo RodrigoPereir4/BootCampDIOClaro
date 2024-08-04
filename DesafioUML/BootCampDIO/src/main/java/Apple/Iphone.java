@@ -6,7 +6,7 @@ package Apple;
  *
  * @author Rodrigo
  */
-public class AppleFabrica implements Navegador.Internet, Reprodutor.Reprodutor, Telefone.Telefone{
+public class Iphone implements Navegador.Internet, Reprodutor.Reprodutor, Telefone.Telefone{
     
     
         
